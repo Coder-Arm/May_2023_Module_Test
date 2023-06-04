@@ -37,7 +37,7 @@ body {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr 2fr;
   grid-template-rows: 1fr 1fr 2fr;
-  gap: 1rem;
+  gap: 2%;
   width: 80%;
 }
 #photo-gallery img {
